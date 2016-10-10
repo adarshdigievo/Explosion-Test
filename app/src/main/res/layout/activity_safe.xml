@@ -23,15 +23,15 @@
         android:paddingBottom="3dp" />
 
     <TextView
-        android:text="@string/safe"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/textView"
         android:id="@+id/textView5"
         android:layout_alignParentStart="true"
         android:textColor="@android:color/black"
-        android:textAlignment="textStart"
-        android:padding="4dp" />
+        android:textAlignment="center"
+        android:padding="4dp"
+        android:text="Your device was found to be 99% 'Explosion proof'.\n     And what about the remaining 1% ??\n     Any device may explode: \n&quot;Man proposes, God disposes&quot; " />
 
     <ImageView
         android:layout_width="wrap_content"
@@ -41,4 +41,15 @@
         android:scaleType="centerInside"
         android:layout_below="@+id/textView5"
         android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="What if I own a   Ga**xy N**e 7 ???"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:alpha="70"
+        android:textStyle="normal|bold" />
 </RelativeLayout>

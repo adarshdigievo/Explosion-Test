@@ -9,7 +9,7 @@
         android:supportsRtl="true">
         <activity
             android:name=".MainActivity"
-            android:label="Search Results"
+            android:label="Explosion Test"
             android:theme="@style/AppTheme.YesActionBar" />
         <activity
             android:name=".SplashActivity"

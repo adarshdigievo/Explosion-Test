@@ -5,9 +5,10 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+import android.text.method.LinkMovementMethod;
 import android.view.View;
 import android.widget.Button;
-
+import android.widget.TextView;
 
 
 public class MainActivity extends Activity {
@@ -17,7 +18,10 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        MainActivity.this.getActionBar().setTitle("Hello world App");
+
+        TextView t2 = (TextView) findViewById(R.id.textView2);
+        t2.setMovementMethod(LinkMovementMethod.getInstance());
+
         getboth = (Button)findViewById(R.id.button1);
         getboth.setOnClickListener(new View.OnClickListener() {
 
@@ -32,8 +36,16 @@ public class MainActivity extends Activity {
                     @Override
                     public void run() {
                         removeWorkingDialog();
-                        Intent main1Intent = new Intent(MainActivity.this, SafeActivity.class);
-                        MainActivity.this.startActivity(main1Intent);
+                        if(DeviceModel.contains("SM-N930"))
+                        {
+                            Intent main1Intent = new Intent(MainActivity.this, DangerActivity.class);
+                            MainActivity.this.startActivity(main1Intent);
+                        }
+                        else
+                        {
+                            Intent main2Intent = new Intent(MainActivity.this, SafeActivity.class);
+                            MainActivity.this.startActivity(main2Intent);
+                        }
                     }
 
                 }, 3000);
