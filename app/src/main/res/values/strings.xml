@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Explosion Test</string>
+    <string name="safe">Your device was found to be 99% 'Explosion proof'.\n
+    And what about the 1% ??\n
+    Any device may explode: "Man proposes, God disposes" </string>
+    <string name="danger">Possible Solutions:\n
+    1.Immediately switch off the phone and never use it.\n
+    2.Ask for a refund.\n
+    3.Or, use the device underwater.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_danger">DangerActivity</string>
+</resources>

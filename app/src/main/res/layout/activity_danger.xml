@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_danger"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="in.digievo.explosiontest.DangerActivity">
+    <TextView
+        android:text="You are in Danger!!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:id="@+id/textView"
+        android:textColor="@android:color/black"
+        android:textSize="35dp"
+        android:textAlignment="center"
+        android:paddingBottom="3dp" />
+
+    <TextView
+        android:text="@string/danger"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:id="@+id/textView5"
+        android:layout_alignParentStart="true"
+        android:textColor="@android:color/black"
+        android:textAlignment="textStart"
+        android:padding="4dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/danger"
+        android:layout_below="@+id/textView5"
+        android:id="@+id/imageView3"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>

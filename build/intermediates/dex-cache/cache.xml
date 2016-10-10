@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_06302c32cbe5c44a9f9c780cb56d3252019bbbfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6e4c449e95bf96b219fbdbfa0ba9b3dc05b5a760">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c74f9a664ec66ac5e1552e65849c6791d629bff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b1162a98a1301305710afdcea8ca918dc0280cb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1d1ac7534d54041fc44fa6ec61b291c987edec8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_add44aa12efe5af986f7fd93ea757c11b4e45eb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_408ab95562dce2100657d136ceb704a7c574879b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_f733d42901a85b3cae657de75b7e5f505b898283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1abdf569156f1670a9ec56495ec18c83408224ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_33761d7a9fc81b7ce821efe26acbc332b9319f8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_c2bf7e4c677c25f1c9a92d6603b0d6201dabe4c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_fea518e2330529f378bb70d406d9e64bbf2c4c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_41e29fbb22bdd7473fdabeac7d3c52e771f2580b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_cd6f58f4c91dec922917dcc36d70fdf1332cb13d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b6edc0b7742074093bf27fe94d78d79289c3b08b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0b2860b3b3f0dce50b06659a86af1a726e4f6f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_b901fb2e2e593b52368597ff1f587ed761a6e3c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bd671301f9903601e0654787056c06c89fd913b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5fa5807afd3b8228a5c96b750d3247aea3e72bc8">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7686645d9ed4d062d60f3ef9414173e53966c5e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/adarshd/z/ExplosionTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/media/adarshd/z/ExplosionTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ef7ab24fca6513c81c3e7586b276ae389b7ff4f2/classes.dex" />
+    </item>
+
+</items>
